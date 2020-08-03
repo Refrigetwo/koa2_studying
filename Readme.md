@@ -11,3 +11,9 @@
 * 使用Mongoose对本地MongoDB的增删改查
 * 没了
 
+## 个人信息
+
+微博 [@冰_箱Two](https://weibo.com/u/5764873096)
+
+mail ljx2391273@gmail.com
+
