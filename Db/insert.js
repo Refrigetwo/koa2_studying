@@ -21,7 +21,7 @@ var insert = async function (name, age, sex) {
         console.log('after save');
     }catch(err){
         console.log('Error'+err);
-    }
+    }                                   //save方法返回的不是promise对象
     /*await test.save(function (err, res) {
         if (res) {
             json = {
